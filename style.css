@@ -1,0 +1,13 @@
+
+.navigationList {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+a {
+    text-decoration: none;
+    color: rgb(226, 80, 43);
+    /* margin-right: 250px; */
+}
